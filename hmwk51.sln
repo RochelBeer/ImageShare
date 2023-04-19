@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hmwk51.web", "hmwk51.web\hmwk51.web.csproj", "{B56AB0FB-0FD9-485A-8EDE-FA425820DFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hmwk51.data", "hmwk51.data\hmwk51.data.csproj", "{FC22705D-8869-4F9B-A6B4-B1B9CDE82A07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56AB0FB-0FD9-485A-8EDE-FA425820DFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56AB0FB-0FD9-485A-8EDE-FA425820DFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56AB0FB-0FD9-485A-8EDE-FA425820DFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56AB0FB-0FD9-485A-8EDE-FA425820DFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC22705D-8869-4F9B-A6B4-B1B9CDE82A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC22705D-8869-4F9B-A6B4-B1B9CDE82A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC22705D-8869-4F9B-A6B4-B1B9CDE82A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC22705D-8869-4F9B-A6B4-B1B9CDE82A07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EAC3DC5-2A71-4FE9-B581-593459A13A8F}
+	EndGlobalSection
+EndGlobal
